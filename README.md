@@ -29,8 +29,8 @@ The simulation variables of uncertainty are number of suppliers, average call ti
 
 ## Hypothesis or hypotheses before running the simulation:
 The hypotheses before the running the simulation are:
-1.	As the number of representatives increase, there should be a decrease in wait time and increase in response time.
-2.	Number of suppliers decrease will cause response time to drop provided the number of representatives from IB/NBFC are constant. 
+1.	As the number of employees increase, there should be a decrease in wait time and response time.
+2.	Number of suppliers decrease will cause response time to drop provided the number of employees from IB/NBFC are constant. 
 
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
