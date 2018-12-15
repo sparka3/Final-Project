@@ -45,12 +45,12 @@ For the optimization of OTC financial trading strategy, the following assumption
 For the program, 2000 simulations have been considered. These simulations will be handled by 4 employees starting from finding calculation with what happens if there is only 1 employee to if there are 4 employees
 
 The output has been presented in a tabluar format that displays the calculation of drop out percentage and average response time.
-                  Dropout Percent  Avg Response Time
-No. of Employees                                    
-1                       90.913399            35.0035
-2                       45.454545             5.0000
-3                       45.454545             3.0000
-4                       36.363636             2.0000
+
+No. of Employees        Dropout Percentage         Avg Response Time
+1                       90.913399                  35.0035
+2                       45.454545                  5.0000
+3                       45.454545                  3.0000
+4                       36.363636                  2.0000
 
 ## All Sources Used:
 https://www.investopedia.com/terms/o/over-the-countermarket.asp
