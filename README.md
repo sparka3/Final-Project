@@ -34,9 +34,23 @@ The hypotheses before the running the simulation are:
 
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
-
+For the optimization of OTC financial trading strategy, the following assumptions have been made:
+1. Number of Employees : 1/2/3/4
+2. The suppliers call duration has been assumed to be for a minimum of one minute and a maximum of 12 minutes.
+3. The supplier wait time has been assumed to be for a maximum of 20 minutes.
+4. The suppliers will be attended to on a first come first serve basis.
+5. In case of any technical errors,i.e. if the supplier hold time is a negative integer,  the supplier call will be dropped. 
 
 ## Instructions on how to use the program:
+For the program, 2000 simulations have been considered. These simulations is done for the four employees taking one at a time and increasing by 1 for every 2000 simulations. 
+The output has been presented in a tabluar format that displays the calculation of drop out percentage and average response time.
+
+                  Dropout Percent  Avg Response Time
+No. of Employees                                    
+1                       90.913399            35.0035
+2                       45.454545             5.0000
+3                       45.454545             3.0000
+4                       36.363636             2.0000
 
 ## All Sources Used:
 https://www.investopedia.com/terms/o/over-the-countermarket.asp
