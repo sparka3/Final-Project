@@ -1,6 +1,7 @@
+import doctest
 import random
 import pandas as pd
-import doctest
+
 
 class OTC(object):
     """
