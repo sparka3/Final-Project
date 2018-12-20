@@ -63,8 +63,12 @@ https://creativemaths.net/blog/triangular-dist/
 
 ## Contributions by each  team member
 
-Code Development:- Shradhaa Parkar and Shubham Rawlani
-Algorithm Outline:-Priya Balgi and Shubham Rawlani
-Class Structure:-Priya Balgi and Shradhaa Parkar
-Presentation:-Priya Balgi
+### Code Development:-
+Shradhaa Parkar and Shubham Rawlani
+### Algorithm Outline:-
+Priya Balgi and Shubham Rawlani
+### Class Structure:-
+Priya Balgi and Shradhaa Parkar
+### Presentation:-
+Priya Balgi, Shradhaa Parkar
 
