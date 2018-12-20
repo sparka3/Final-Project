@@ -61,7 +61,8 @@ https://www.investopedia.com/terms/o/over-the-countermarket.asp
 https://creativemaths.net/blog/triangular-dist/
 
 
-##Contributions by each team member
+## Contributions by each  team member
+
 Code Development:- Shradhaa Parkar and Shubham Rawlani
 Algorithm Outline:-Priya Balgi and Shubham Rawlani
 Class Structure:-Priya Balgi and Shradhaa Parkar
