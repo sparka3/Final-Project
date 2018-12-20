@@ -70,5 +70,5 @@ Priya Balgi and Shubham Rawlani
 ### Class Structure:-
 Priya Balgi and Shradhaa Parkar
 ### Presentation:-
-Priya Balgi, Shradhaa Parkar
+Priya Balgi, Shradhaa Parkar, Shubham Rawlani
 
